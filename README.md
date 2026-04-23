@@ -1,16 +1,18 @@
-# Trabalho Prático - Semana 7
+# Trabalho Prático - Semana 8
 
-Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a criação de variáveis, emprego de tipos básicos (string, number, boolean), operadores, além de fluxos de controle condicionais e estruturas de repetição (for e while).
+Nesta atividade, você fazer exercícios de programação para vai praticar a manipulação de objetos e arrays em JavaScript, passando pela definição de dados em notação **JSON (JavaScript Object Notation)**, acessando propriedades e itens, e usando iterators para processar os dados e gerar resultados.
 
 ## Informações Gerais
 
 - Nome:
 - Matricula:
 
-## Print do console do navegador
+## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
 
+<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
 
+<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
 
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
