@@ -8,6 +8,7 @@ Imagine que a página principal (home-page) mostre um visão dos vários itens q
 
 - Nome:
 - Matricula:
+- Decreva brevemente seu projeto
 
 ## Prints do trabalho
 
