@@ -1,41 +1,15 @@
-# Trabalho Prático - Semana 11
+# Trabalho Prático - Semana 12
 
-Nesta atividade, vamos evoluir o projeto em que estamos trabalhando nesse semestre, acrescentando a página de detalhes.
-
-Imagine que a página principal (home-page) mostre um visão dos vários itens que existem no seu site. Ao clicar em um item, você é direcionado pra a página de detalhes. A página de detalhe vai mostrar todas as informações sobre o item do seu projeto, seja esse item uma notícia, filme, receita, lugar turístico ou evento.
+Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interface de visualização de filmes. Para isso, vamos utilizar a [The Movie DB API](https://developer.themoviedb.org/docs/getting-started). A página resultante deve listar os resultados de uma requisição HTTP no formato de cards e deve incluir uma funcionalidade de pesquisa ou filtro. 
 
 ## Informações Gerais
 
 - Nome:
 - Matricula:
-- Decreva brevemente seu projeto
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - HOME-PAGE - AQUI >>
+<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHES - AQUI >>
-
-## Dados em JSON
-Inclua aqui a estrutura de dados definida por você para o projeto com pelo menos dois exemplo de dados.
-
-```json
-{
-  "animes": [
-    {
-      "id": 1,
-      "nome": "Naruto",
-      "genero": "Ação",
-      "destaque": true
-    },
-    {
-      "id": 2,
-      "nome": "Fullmetal Alchemist",
-      "genero": "Aventura",
-      "destaque": false
-    }
-  ]
-}
-```
-
+<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
 
